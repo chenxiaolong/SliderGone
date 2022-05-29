@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SliderGone</string>
+    <string name="toggle_visibility">Toggle visibility</string>
+    <string name="call_ensure_labels_removed">Call ensureLabelsRemoved()</string>
+</resources>
